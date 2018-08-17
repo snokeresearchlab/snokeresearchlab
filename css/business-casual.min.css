@@ -6,7 +6,12 @@
 
 body {
   font-family: 'Lora';
+  background: linear-gradient(rgba(5, 5, 5, 0.35), rgba(5, 5, 5, 0.35)), url("../img/bg.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
 }
+
 
 h1,
 h2,
